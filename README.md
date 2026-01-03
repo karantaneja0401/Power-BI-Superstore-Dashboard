@@ -17,7 +17,8 @@ The dashboard is designed with a strong focus on business KPIs, growth analysis,
 - Data Visualization
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard overview.png)
+![Dashboard Preview](dashboard_overview.png)
+
 
 
 ## Dataset
